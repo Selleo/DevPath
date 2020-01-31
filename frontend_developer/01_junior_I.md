@@ -1,4 +1,8 @@
-# Junior - level I
++++
+aliases = ["frontend","javascript","typescript","react","ember","css", "junior"]
+title = "Junior - level I"
+author = "Selleo"
++++
 
 ## Areas
 

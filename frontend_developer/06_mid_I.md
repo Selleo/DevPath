@@ -1,4 +1,8 @@
-# Mid - level I
++++
+aliases = ["frontend","javascript","typescript","react","ember","css", "Mid"]
+title = "Mid - level I"
+author = "Selleo"
++++
 
 ## Areas
 

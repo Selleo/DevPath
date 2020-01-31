@@ -1,3 +1,9 @@
++++
+aliases = ["tools", "os x"]
+title = "OS X Setup"
+author = "Selleo"
++++
+
 # OSX Setup
 
 ## Preparation

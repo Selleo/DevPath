@@ -1,4 +1,8 @@
-# Independent - level II
++++
+aliases = ["frontend","javascript","typescript","react","ember","css", "independent"]
+title = "Independent - level II"
+author = "Selleo"
++++
 
 ## Areas
 
