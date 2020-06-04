@@ -272,7 +272,7 @@ drwxr-xr-x  2 bard bard 4096 Jan 16 09:55 tmp
 - `r--` - file can be read group
 - `r--` - file can be read other system users
 - file type `d` means that is a directory (more file types could be found above
-  in section [UNIX file types](#unix-file-types))
+  in section [UNIX file types](#-unix-file-types))
 - `rwx` - directory can be read/written/executed by owner (by executed it means
   that owner can list files or enter to a directory)
 - `r-x` - directory can be read/executed
