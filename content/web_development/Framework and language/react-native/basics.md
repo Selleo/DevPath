@@ -158,6 +158,7 @@ From react-native 0.60 linking is easier (almost out-of-box), however when addin
 - Add react-native-vector-icons to project
 
 ---
+
 ## 📦 ReactNative / Navigation
 
 Instead of React Router we have React Navigation that is a leading library in case of navigation in RN community
@@ -220,7 +221,7 @@ Knows how to use Redux data mangment.
 
 ## 📦 ReactNative / Lists
 
-Very offen we using virtual list components to render some results from B/E
+Very often we using virtual list components to render some results from B/E
 
 ### 🎓 Learn
 
@@ -308,7 +309,7 @@ Sometimes we need to apply code only to iOS or Android platform
 
 ### 📝 Katas
 
-- Inside Settings render information about current platform (if this it iOS or Android)
+- Inside Settings render information about current platform (if this it iOS or Android) - `${platform} is the best!`
 
 ---
 
