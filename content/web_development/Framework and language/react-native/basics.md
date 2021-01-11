@@ -14,7 +14,7 @@ weight = 1
 **Person which succesfully completed requirement for given block can:**
 
 - Run React Native application on Android or iOS simulator or device.
-- Can debug using ReactNativeDebuger or Flipper, with usage od console statements.
+- Can debug using ReactNativeDebugger or Flipper, with usage of console statements.
 - Can describe why ReactNative can be chosen over other Native/Hybrid solutions
 - Can style elements with ease
 - Can create simple navigation inside project
@@ -28,6 +28,7 @@ After finishing this course you should be able to run an ReactNative environment
 ## Areas
 
 **Overview**
+
 - Know what ReactNative is
 - Can tell advantage of using it over other solutions
 - Start a new application
@@ -35,22 +36,26 @@ After finishing this course you should be able to run an ReactNative environment
 - Build and Run Metro
 
 **Debugging**
+
 - Can run debugger
 - Can inspect element
 - Can console log information and show it
 
 **Linking**
+
 - Know concept of linking libraries (and their native implementation)
 - Can tell a bit about cocoapods and grandle
 - Can link/add new library into project
 
 **Navigation**
+
 - Can implement navigation within app
 - Can tell difference between tab and stack navigation
 - Can navigate back
 - Know what Drawer is
 
 **Redux**
+
 - Know that is a basic flow with redux
 - Can configure reducers and actions to mutate data
 - Know that data in reducers should be immutable
@@ -58,36 +63,41 @@ After finishing this course you should be able to run an ReactNative environment
 - Can utilize redux with usage of react-redux hooks
 
 **Lists**
+
 - Knows that components are responsible for rendering Lists
 - Know how to re-render this elements and improve its performance
 
 **React Hooks**
+
 - Knows how to use basic hooks
 - Knows how to build own custom hooks
 - Knows how to mimic old lifecycle methods
 
 **React Styling**
+
 - Knows how to style elements with RN API
-- Is aware of limitations that comes with ReactNative styling (this are not CSS)
+- Is aware of limitations that comes with ReactNative styling (these are not CSS)
 
 **Platform specific code**
+
 - Knows how to get information about current platform
 - Knows how to write platform specific file implementations for components and utils
 - Knows how to use `Plaform.select` to write styles
 
 **Formik basic + basic validation**
+
 - Creates simple create/edit forms
 - Create array-like fields
 - Validate data inside form
 - Display errors of validation
 
 **Testing basic**
+
 - Is able to write simple snap tests
 - Is able to write simple integration test
 - Is able to write test that checks redux
 
 ---
-
 
 ## 📦 ReactNative / Overview
 
@@ -103,7 +113,7 @@ You need to know that it is actually React Native and Expo. Should be able to an
 ### 🎤 Interview
 
 - What is RN and who create it/maintain it?
-- What are the advantages of use RN over Native
+- What are the advantages of use RN over Native(delete or change)
 - What dependencies you need to build and run RN app on iOS and Android
 - What is expo? Cons and pros using it?
 - What is the metro?
@@ -154,7 +164,7 @@ From react-native 0.60 linking is easier (almost out-of-box), however when addin
 
 ### 📝 Katas
 
-- Add react-navigation to project
+- Add react-navigation to project (check documentation to add all the required libs)
 - Add react-native-vector-icons to project
 
 ---
@@ -166,7 +176,7 @@ Instead of React Router we have React Navigation that is a leading library in ca
 ### 🎓 Learn
 
 - 📗 [Project Homepage](https://reactnavigation.org/)
-- 📗 [Crating sample navigation](https://www.youtube.com/watch?v=p_9K0N0yDvU)
+- 📗 [Crating sample navigation](https://www.youtube.com/watch?v=28Xr22XDcDg)
 - 📙 [Auth Flow](https://reactnavigation.org/docs/en/auth-flow.html)
 
 ### 🎤 Interview
@@ -186,7 +196,7 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ## 📦 ReactNative / Redux
 
-Knows how to use Redux data mangment.
+Knows how to use Redux data managment.
 
 ### 🎓 Learn
 
@@ -215,7 +225,7 @@ Knows how to use Redux data mangment.
 - Todos have only completed flag
 - create selector that will only display completed Todos
 - create selector that will display all the habits for current day with flag that inform if habit was completed today with usage of data from CompletedHabitsPerDay
-- setup redux-persis - to keep data inside an app
+- setup redux-persist - to keep data inside an app
 
 ---
 
@@ -270,7 +280,6 @@ Developer should use new functional aproach to create functional components with
 I need to know that you are able to style components, by using original ReactNative StyleSheets or StyledComponents
 
 ### 🎓 Learn
-
 
 - 📗 [StyleSheets Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 - 📗 [FlexBox](https://facebook.github.io/react-native/docs/flexbox)
