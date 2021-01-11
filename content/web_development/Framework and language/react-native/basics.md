@@ -34,6 +34,7 @@ After finishing this course you should be able to run an ReactNative environment
 - Start a new application
 - ReactNative Commands
 - Build and Run Metro
+- What is a PWA?
 
 **Debugging**
 
@@ -117,6 +118,7 @@ You need to know that it is actually React Native and Expo. Should be able to an
 - What dependencies you need to build and run RN app on iOS and Android
 - What is expo? Cons and pros using it?
 - What is the metro?
+- What is a PWA? That does ReactNative allow more than PWA?
 
 ### 📝 Katas
 

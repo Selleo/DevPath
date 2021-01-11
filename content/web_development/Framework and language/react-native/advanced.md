@@ -75,6 +75,7 @@ You need to know a bit about performance troubles writing code in React Native.
 - 📗 [The Ultimate Guide to React Native Optimization eBook](https://callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook/)
 - 📗 [React Native Performance Guide](https://reactnative.dev/docs/performance)
 - 📗 [How to boost performance of RN apps](https://www.merixstudio.com/blog/react-native-performance/)
+- 📙 [ReactNative Cold Start for Android](https://mattermost.com/blog/how-we-improved-our-react-native-cold-start-for-android/)
 
 
 ### 🎤 Interview
@@ -149,11 +150,13 @@ You need to know how to build an app and deploy to testers via AppCenter. Additi
 
 - 📗 [AppCenter](https://appcenter.ms/)
 - 📗 [CodePush](https://github.com/microsoft/react-native-code-push)
+- 📗 [Android app bundles](https://developer.android.com/guide/app-bundle)
 
 ### 🎤 Interview
 
 - What features AppCenter offers?
 - What is Codepush?
+- Describe what is a difference between Android APK and application bundle? Which one we should upload?
 
 ### 📝 Katas
 
