@@ -113,7 +113,7 @@ Need to know how work with advanced Formik concepts
 - Upon entering new/edit habit form name input should autofocus
 - Add additional field into Habit form called 'description', put it under 'name', after entering enter inside 'name' we should go to next input and focus on it
 - Near each 'name' and 'description' should be a clear icon that triggers input cleaning (you can use handleChange)
-- Inside navigation header put an reset button to reset form into initial values
+- Inside navigation header put an reset button to reset form into initial values (clues: innerRef, useLayoutEffect() + navigation.setOptions)
 
 ---
 
@@ -136,7 +136,7 @@ Writing specs for JavaScript that using native code integration can be tricky, d
 
 - Mock AsyncStorage (you can check documentation) - you added it probably together with ReduxPersist
 - Write a test that will check if you navigate to Habit create screen upon clicking into 'Add' button
-- Mock platform select and check if inside Settings we render right text (React Native Basic / Platform specific code), write second test for second Platform
+- set and check if inside Settings we render right text (React Native Basic / Platform specific code), write second test for second Platform
 - Inside setting render information about current time (it does not need to refresh) and write a test that mock date (you can use MockDate library)
 
 ---
