@@ -27,7 +27,7 @@ title = "CICD"
 - [CI/CD explained II](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 
 ### 📝 Katas
-- prepare a working CircleCI pipeline for frontend application with the following requirements:
+  - prepare a working CircleCI pipeline for frontend application with the following requirements:
   - static code checks
   - tests
   - production build
