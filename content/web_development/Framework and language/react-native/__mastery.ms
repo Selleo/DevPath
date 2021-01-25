@@ -189,3 +189,41 @@
 - Show an error on a platform
 
 ---
+
+## 📦 ReactNative / Deep Linking
+
+
+### 🎓 Learn
+
+- [CodePush](https://github.com/microsoft/react-native-code-push)
+
+### 🎤 Interview
+
+- Why we need to send source maps to Bugsnag?
+
+### 📝 Katas
+
+- Create an account on Bugsnag or FirebaseCrashlytics
+- Setup an app with provided tool
+- Show an error on a platform
+
+---
+
+## 📦 ReactNative / i18n
+
+
+### 🎓 Learn
+
+- [CodePush](https://github.com/microsoft/react-native-code-push)
+
+### 🎤 Interview
+
+- Why we need to send source maps to Bugsnag?
+
+### 📝 Katas
+
+- Create an account on Bugsnag or FirebaseCrashlytics
+- Setup an app with provided tool
+- Show an error on a platform
+
+---

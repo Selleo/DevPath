@@ -183,6 +183,7 @@ You need to setup Bugsnag or Crashlytics as a error handler provider and setup i
 - Why we need to send source maps to Bugsnag? And how to do it?
 - What tools you can use to get feedback from user about problems with an app?
 - What is breadcrumb and what they can tell us?
+- How to implement error handler screen for users with Bugsnag?
 
 ### 📝 Katas
 
