@@ -165,6 +165,7 @@ On your project, add:
  
 * 📗 [Inspecting hover states](https://coderwall.com/p/s_g9qg/use-chrome-dev-tools-to-force-element-state-hover-debugging)
 * 📗 [Inspecting advanced](https://selleo.com/til/posts/ok8w4vaod0-inspecting-elements-that-disappear-from-dom)
+* 📗 [Inspecting advanced #2](https://selleo.com/til/posts/zymr9yhtjf-inspecting-elements-that-disappear-from-dom-2)
 
 ### 🎤 Interview
 
