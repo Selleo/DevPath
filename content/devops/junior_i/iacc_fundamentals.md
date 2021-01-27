@@ -6,7 +6,7 @@ title = "IaaC Fundamentals"
 
 ## IaaC Fundamentals
 
-**Points:** X
+**Required**
 
 **Description:** You understand what is IaaC and what benefits it gives. You can use it with minimal help in your day-to-day work.
 
@@ -30,8 +30,9 @@ title = "IaaC Fundamentals"
 - 📗 [Terraform providers](https://www.terraform.io/docs/providers/index.html)
 - 📗 [Terraform AWS provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - 📗 [Terraform CLI Documentation](https://www.terraform.io/docs/cli-index.html)
+
 ### 📝 Katas
-  - Build a small AWS infrastructure (based on requirements described in [AWS Service Basics](#aws-services-basic)) using Terraform, while doing it:
+  - Build a small AWS infrastructure (based on requirements described in [AWS Service Basics](/devops/junior_i/aws_services_basic_frontend/)) using Terraform, while doing it:
     - Use local and remote backend
     - Demonstrate using multiple providers
     - Interact with module inputs and outputs
@@ -52,6 +53,7 @@ title = "IaaC Fundamentals"
     * validate
     * state show
     * state mv
+
 ### 🎤 Interview
   - Explain what IaaC is
   - Describe advantages of IaaC patterns
