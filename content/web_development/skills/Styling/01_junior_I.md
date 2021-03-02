@@ -50,6 +50,7 @@ Prepare for a tech interview, where we will go step by step through the followin
 ### 🎓 Learn
 
 * 📗 [Css basics](https://developer.mozilla.org/en/docs/Learn/Getting_started_with_the_web/CSS_basics)
+* 📗 [Css vocabulary](http://apps.workflower.fi/vocabs/css/en)
 * 📗 [Box model](https://internetingishard.com/html-and-css/css-box-model/)
 * 📗 [Basic information's about CSS](https://www.w3schools.com/Css/default.asp) ("CSS Tutorial" section)
 * 📗 [CSS specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
@@ -75,6 +76,7 @@ Prepare for a tech interview, where we will go step by step through the followin
 * what is required for `top: 10px` to work?
 * positioning types and their differences
 * what is specificity and how it's calculated?
+* cascade example
 
 
 ## 📦 Flexbox

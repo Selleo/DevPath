@@ -143,6 +143,7 @@ On your project, add:
 * 📗 [Eliminating render-blocking resources](https://www.digitalocean.com/community/tutorials/html-defer-async)
 * 📗 [Deferring offscreen images](https://css-tricks.com/native-lazy-loading/)
 * 📗 [Preloading key requests](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
+* 📗 [Image optimizations](https://www.industrialempathy.com/posts/image-optimizations/)
 
 ### 📝 Katas
 

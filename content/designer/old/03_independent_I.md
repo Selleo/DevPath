@@ -43,11 +43,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 
 ### 🎓 Learn
 
-* 📗 [Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
-* 📗 [Lazy loadingy](https://web.dev/native-lazy-loading)
-* 📗 [Preview image loading ](https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/)
 * 📗 [Lighthouse plugin](https://github.com/treosh/lighthouse-plugin-field-performance)
-* 📗 [Font Swap](https://developers.google.com/web/updates/2016/02/font-display)
 * 📗 [Debugging](https://gist.github.com/ArekJanik/265e334cf795176bc6d9b8feb2b3b7ba#debugging)
 
 

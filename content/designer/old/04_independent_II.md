@@ -52,7 +52,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Dieter Rams for web](https://medium.com/swlh/how-dieter-rams-10-principles-of-good-design-can-impact-ux-c2f369218a08/)
 * 📗 [UX cliches](https://uxdesign.cc/a-comprehensive-and-honest-list-of-ux-clich%C3%A9s-96e2a08fb2e9)
 * 📗 [Interaction Design](https://uxplanet.org/principles-of-interaction-design-what-it-takes-to-create-positive-human-computer-interactions-1a5af16b51c3)
-* 📗 [Table design](https://uxdesign.cc/11-table-design-guidelines-adb27ac01c8e)
+* 📗 [Table design](https://medium.com/design-with-figma/the-ultimate-guide-to-designing-data-tables-7db29713a85a)
 * 📗 [Prevent users from making mistakes](https://uxdesign.cc/how-to-prevent-your-users-from-making-mistakes-d641c6260b29)
 
 
