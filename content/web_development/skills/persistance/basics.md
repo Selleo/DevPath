@@ -16,6 +16,7 @@ weight = 1
 - Knows how to read the data from transactional database
 - Understands benefits & limitations of transactional database
 - Can manipulate the structure and the data of the database
+- Understands the difference between various database systems
 
 {{% /bubble%}}
 
@@ -158,6 +159,16 @@ weight = 1
 
 - 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
 
+## No-SQL
+
+- 📗 [No-SQL wikipedia](https://en.wikipedia.org/wiki/NoSQL)
+- 📗 [No-SQL db-engines](https://db-engines.com/en/article/NoSQL)
+
+### Key-value stores
+
+- 📗 [Key-value stores](https://db-engines.com/en/article/Key-value+Stores)
+- 📙 [Redis](https://db-engines.com/en/system/Redis)
+
 ## Questions
 
 1. What is a Primary Key?
@@ -171,3 +182,6 @@ weight = 1
 7. How do `LIMIT` and `OFFSET` work?
 8. How to sort data?
 9. Give an example of a query that uses `GROUP BY` and `HAVING`.
+10. How would you define No-SQL?
+11. Describe key-value store of your choice.
+- Provide some use-cases of key-value stores.

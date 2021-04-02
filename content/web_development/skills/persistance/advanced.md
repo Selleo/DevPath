@@ -17,6 +17,8 @@ weight = 2
 - Can build reactable database solution
 - Can use query optimization technics
 - Knows how to use complex operations keeping the high-level of data integrity
+- Understands different data models and its applications
+
 
 {{% /bubble%}}
 
@@ -307,6 +309,33 @@ Possible use cases:
 - 📙 [es-mapping](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
 - 📙 [es-query-dsl](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
+## Different data models
+
+- 📙 ["Classification" of different database systems](https://db-engines.com/en/article/NoSQL)
+- 📗 [No-SQL db-engines](https://db-engines.com/en/article/NoSQL)
+- 📗 [No-SQL Microsoft docs](https://azure.microsoft.com/en-us/overview/nosql-database/)
+- 📗 [No-SQL MongoDB docs](https://www.mongodb.com/nosql-explained)
+
+### Document-oriented
+
+- 📙 [DB engines](https://db-engines.com/en/article/Document+Stores)
+- 📙 [Wikipedia](https://en.wikipedia.org/wiki/Document-oriented_database)
+- 📙 [DB engines - MongoDB](https://db-engines.com/en/system/MongoDB)
+
+### Graph-oriented 
+
+- 📙 [Graph DBMS](https://db-engines.com/en/article/Graph+DBMS)
+- 📙 [Intro to Graphs and Neo4j](https://www.youtube.com/watch?v=Go3P73-KV30)
+- 📙 [Neo4j Top Use Cases](https://www.youtube.com/watch?v=lb90EBfAj0o)
+- 📙 [Neo4j graph database book](https://neo4j.com/graph-databases-book/)
+- 📙 [Data modeling](https://neo4j.com/developer/data-modeling/)
+- 📙 [Neo4j gists](https://neo4j.com/graphgists/)
+
+### Wide-Column stores
+
+- 📙 [DB engines](https://db-engines.com/en/article/Wide+Column+Stores)
+- 📙 [Dataversity](https://www.dataversity.net/wide-column-database/)
+
 ## Questions
 
 1. What's the difference between `DISTINCT` and `DISTINCT ON`?
@@ -342,3 +371,8 @@ Possible use cases:
 16. What is a query planner?
 - Does it always generate fully optimal plan?
 - Can you force query planner to choose a different plan?
+17. Describe NoSQL database of your choice.
+18. What is the column store and what is a column-oriented storage that exists in some RDBMS?
+19. In which situations you would recommend document-oriented store?
+20. In which situations you would recommend graph-oriented store?
+21. Describe NoSQL scaling.
