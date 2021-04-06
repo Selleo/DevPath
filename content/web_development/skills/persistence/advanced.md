@@ -14,7 +14,7 @@ weight = 2
 **A person who successfully completed requirement for the given block:** 
 
 - Knows other types of databases and common use-cases for them
-- Can build a reactable database solution
+- Can build a robust database solution that satisfies customer needs
 - Can use query optimization technics
 - Knows how to use complex operations keeping the high-level of data integrity
 - Understands different data models and their applications
