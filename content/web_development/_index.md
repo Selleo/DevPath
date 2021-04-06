@@ -18,7 +18,7 @@ title = "Web Development"
 - 📙 2️⃣ [Performance tuning and monitoring](/web_development/skills/performance_and_monitoring/)
 - 📙 2️⃣ [Data Extraction](/web_development/skills/data_extraction/)
 - 📙 2️⃣ [Planning](/web_development/skills/planning/)
-- 📙 2️⃣ [Persistence - Advanced](/web_development/skills/persistance/advanced/)
+- 📙 2️⃣ [Persistence - Advanced](/web_development/skills/persistence/advanced/)
 - 📙 2️⃣ [Testing Expertise](/web_development/skills/testing/)
 - 📙 1️⃣ [Wireframing and prototyping](/web_development/skills/wireframing_and_prototyping/)
 - 📙 1️⃣ [Security](/web_development/skills/security/)

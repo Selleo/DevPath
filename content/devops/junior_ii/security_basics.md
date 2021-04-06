@@ -10,7 +10,7 @@ title = "Security basics"
 
 **Description:** You understand the fundamental security good practices for cloud infrustructer and can work with most common tools with minimal supervision.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Ability to write code using AWS security best practices
 - Understand basic threats and measures to prevent them

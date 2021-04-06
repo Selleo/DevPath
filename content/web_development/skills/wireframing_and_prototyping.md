@@ -10,7 +10,7 @@ title = "Wireframing and prototyping"
 
 **Description:** You can use certain tools that allows presenting concepts to the customer in a quick and understandable manner, before starting actuall development.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Is proficient in using at least two diffrent tools dedicated for wireframing and prototyping, at least one of which should allow for dynamically linking pages
 Is knowledgeble of basic aspects of UX

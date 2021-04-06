@@ -1,17 +1,17 @@
 +++
-title = "Persistance - Basics"
+title = "Persistence - Basics"
 weight = 1
 +++
 
 {{%bubble %}}
 
-## Persistance Basics
+## Persistence Basics
 
 **Points:** n/a (prerequisite for Backend Framework & Language basics)
 
 **Description:** You can store & manipulate the data in one type of the database that is required to build an application with basic framework knowledge
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for the given block:** 
 
 - Knows how to read the data from transactional database
 - Understands benefits & limitations of transactional database
@@ -175,7 +175,7 @@ weight = 1
 2. Tell me about basic data types in PostgreSQL.
 3. What's the difference between single quotes `'` and double quotes `"` in PostgreSQL?
 4. How to perform type casting?
-5. What `UNIQUE` constraint guarentees?
+5. What `UNIQUE` constraint guarantees?
 - Can it be used for multiple columns?
 - How does `UNIQUE` behave in combination with `NULL` values? Why does it work this way?
 6. What is the purpose of `INNER JOIN`? 

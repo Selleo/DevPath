@@ -10,7 +10,7 @@ title = "Data Extraction"
 
 **Description:** You can identify the challanges that need to be tackled and demonstrate the experience in area of data extraction
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Has a reasonably complete knowledge of anti-data-extraction strategies and ways of countering them (ie. proxies, rate limiting, CAPTCHA etc.)
 - Can manifest solid and practical skills in using CSS and XPATH selectors

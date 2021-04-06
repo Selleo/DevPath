@@ -10,7 +10,7 @@ title = "Container orchestration"
 
 **Description:** You have working knowledge of different container orchestrators and a deep knowledge of at least one of them. You understand and follow Docker best practices and can improve existing Dockerfiles.     
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Explain and understand conteiner orchestration and it's benefits and drawbacks
 - Work and perform day-to-day tasks on working system

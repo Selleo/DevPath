@@ -10,7 +10,7 @@ title = "Interview"
 
 **Description:** You can present yourself as a competent person in a given area
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Can identify competencies are required for the given job
 - Can communicate well during the interview with the customer

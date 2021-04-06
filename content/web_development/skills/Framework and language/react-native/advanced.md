@@ -11,7 +11,7 @@ weight = 2
 
 **Description:** Know how to support more advance libraries that comes with Mobile features like push notifications, animation or maps support. Also know how to setup Appcenter to build app for beta testers.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 {{%todo %}}
 {{% /todo%}}

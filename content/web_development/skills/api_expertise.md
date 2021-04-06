@@ -10,7 +10,7 @@ title = "API Expertise"
 
 **Description:** You can build (or mock) & use standarized APIs as well as document your own API.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Compare, choose and confidently justify the right API building standard for given use case
 - Evaluate, recommend and implement the right tooling and way of documenting the API

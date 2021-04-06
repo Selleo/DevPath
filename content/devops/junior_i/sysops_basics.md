@@ -10,7 +10,7 @@ title = "SysOps basics"
 
 **Description:** You have basic working knowledge of general SysOps, Linux concepts. You can perform the most common tasks in those areas.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Understand DNS and different record types
 - Explain basic networking concepts(masks, private/public network, etc.)

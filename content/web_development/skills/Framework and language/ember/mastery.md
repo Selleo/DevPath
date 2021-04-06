@@ -11,7 +11,7 @@ weight = 3
 
 **Description:** You can demonstrate the complete knowledge of the specific framework. You can freely customize it and extend it if needed.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - TODO
 

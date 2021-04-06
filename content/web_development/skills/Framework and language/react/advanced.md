@@ -11,7 +11,7 @@ weight = 2
 
 **Description:** You can apply the best practices across the framework while delivering solution.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
 - Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code

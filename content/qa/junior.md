@@ -9,7 +9,7 @@ weight = 1
 
 **Description:** You can perform basic manual tests using some useful tools. You know how to keep good communication with your team
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 - Perform basic tests of software on your own
 - Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps
 - Build good relations in your team

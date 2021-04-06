@@ -10,7 +10,7 @@ title = "PWA"
 
 **Description:** You can utilize native browser APIs to build Progressive Web Application
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Knows the most common PWA use cases (when to use it and when not to use it)
 - Has a very good knowledge of available native browser APIs that allows access to device-related features

@@ -11,7 +11,7 @@ title = "CICD"
 **Description:** You can deliver CICD configuration for a typical project.
 
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Explain benefits of CICD toolset
 - Work with CircleCI

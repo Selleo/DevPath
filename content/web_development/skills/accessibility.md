@@ -10,7 +10,7 @@ title = "Accessibility"
 
 **Description:** You can identify the challanges that need to be tackled to make an application accessible
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Knows the most common accessibility concerns and builds an software with accessibility in mind
 - Has a very good knowledge on A & AA levels of accessibility standarization.

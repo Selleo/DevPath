@@ -10,7 +10,7 @@ title = "Performance and monitoring"
 
 **Description:** You can identify performance weak-spots and adress them, both in development phase via load test technics, as well as during the life-cycle of the application, via proper monitoring of the app.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Has strong and working knowledge in setting up and leveraging a wide range of performance monitoring and error tracking tools
 - Is capable of precisesly identifying reasons behind performance problems in web applications

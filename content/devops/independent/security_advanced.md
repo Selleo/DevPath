@@ -10,7 +10,7 @@ title = "Security Advanced"
 
 **Description:** You can design systems and audit them according to the best security standards.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Suggest and implement improvements to infrastructure that will improve system security
 - Know various tools used to security scanning of infrastructure

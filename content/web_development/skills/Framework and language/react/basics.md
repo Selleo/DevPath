@@ -11,7 +11,7 @@ weight = 1
 
 **Description:** You can use basic features of the framework, that allows you to deliver the most common features.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Can deliver simple, typical functionalities with little to no additional help
 - When asking for help, can present the problem and already explored solutions clearly and in detail

@@ -11,7 +11,7 @@ weight = 1
 
 **Description:** You can build simple Mobile App, that have basic functionalities and user experience. Utilize library responsible for common requirements that normal mobile app should meet.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Run React Native application on Android or iOS simulator or device.
 - Can debug using ReactNativeDebugger or Flipper, with usage of console statements.

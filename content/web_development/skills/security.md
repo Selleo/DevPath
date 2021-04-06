@@ -10,7 +10,7 @@ title = "Security"
 
 **Description:** You can explain the basic threats that every developer should keep in mind while developing a web application. You can apply all technics that prevents the most common security concerns.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Evaluate the state of the system from security perspective
 - Prepare an security audit that points out weak spots of the system

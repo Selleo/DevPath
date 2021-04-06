@@ -10,7 +10,7 @@ This file contains a basic structure template for each level of DevPath. Please 
 
 **Description:** General description what's is the bubble about
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 Use predefined words from the list to describe what person can for the given block:
 - Define, name repeat - knowledge

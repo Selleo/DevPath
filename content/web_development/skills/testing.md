@@ -10,7 +10,7 @@ title = "Testing Expertise"
 
 **Description:** You can use testing automation tool in critical area of the system, to increase the overall stability of the solution in terms of business requirements.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Identify the critical areas that should be automatically tested to keep the business processes continuity
 - propose a proper testing strategy for the project

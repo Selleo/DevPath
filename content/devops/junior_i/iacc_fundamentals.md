@@ -10,7 +10,7 @@ title = "IaaC Fundamentals"
 
 **Description:** You understand what is IaaC and what benefits it gives. You can use it with minimal help in your day-to-day work.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Understand infrastructure as code (IaC) concepts
 - Understand Terraform's purpose (vs other IaC)

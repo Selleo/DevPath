@@ -8,7 +8,7 @@ title = "Fundamentals"
 
 **Description:** You understand basic concepts around web development
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Can configure working environment
 - Can effectievly configure & use IDE

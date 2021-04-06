@@ -10,7 +10,7 @@ title = "Planning"
 
 **Description:** You can prepare the action plan for delivering a feature, that requires scope analysis, split chunk of work, prepare a good description of each item and spread the work among team members.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Is capable of retrieving information from product owner good enough for preparing/formalising precise scope of work that will much customer expectations
 - Can effectively dividide and prioritise the scope of work into individual tasks with adequate granularity

@@ -9,7 +9,7 @@ weight = 3
 
 **Description:** You can create a test automation structure and cover critical paths with automation tests. You can propose improvements of the ongoing process and workflow on your projects.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 - Compare manual and automated testing and differentiate in what cases each of them should be used
 - Set up Cypress on a project from scratch
 - Write executable automation tests that give a valuable information about state of particular features

@@ -10,7 +10,7 @@ title = "AWS Architecture Fundamentals"
 
 **Description:** You understand fundemental concepts regarding AWS architecture and structure.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Understand structure of AWS
 - Understand and exaplain Shared Responsibility Model

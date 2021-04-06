@@ -1,17 +1,17 @@
 +++
-title = "Persistance - Mastery"
+title = "Persistence - Mastery"
 weight = 3
 +++
 
 {{%bubble %}}
 
-## Persistance Mastery
+## Persistence Mastery
 
 **Points:** 2
 
 **Description:** TODO
 
-**Person which successfully completed requirement for given block can:** 
+**A person who successfully completed requirement for the given block:** 
 
 {{%todo %}}
 {{% /todo%}}

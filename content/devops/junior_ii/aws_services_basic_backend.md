@@ -10,7 +10,7 @@ title = "AWS Services Basics - Backend"
 
 **Description:** You understand AWS services that allow you to create infrastructure for typical backend applications
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Work with AWS services needed to setup backend application
 - Understand key features of some AWS services
