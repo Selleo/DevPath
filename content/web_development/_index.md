@@ -8,13 +8,17 @@ title = "Web Development"
 ## Junior 1
 - 📗 [Fundamentals](/web_development/skills/fundamentals/)
 - 📗 [Framework & Language - basics](/web_development/skills/framework-and-language/)
-
+  - [Backend prerequisite - Persistence basics](/web_development/skills/persistence/basics/)
+  - [Frontend prerequisite - Styling basics](/web_development/skills/styling/01_junior_i/)
+  
 ## Junior 2
 - 📗 [Interview](/web_development/skills/interview/)
 
 ## Independent-Mid
 - 📗 2️⃣ [APIs Expertise](/web_development/skills/api_expertise/)
 - 📗 2️⃣ [Framework & Language - Advanced](/web_development/skills/framework-and-language/)
+  - [Frontend prerequisite - Styling advanced 1](/web_development/skills/styling/02_junior_ii/)
+  - [Frontend prerequisite - Styling advanced 2](/web_development/skills/styling/03_independent_i/)
 - 📙 2️⃣ [Performance tuning and monitoring](/web_development/skills/performance_and_monitoring/)
 - 📙 2️⃣ [Data Extraction](/web_development/skills/data_extraction/)
 - 📙 2️⃣ [Planning](/web_development/skills/planning/)

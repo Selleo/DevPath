@@ -375,7 +375,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
   color: white;
 }
 #sidebar ul.topics > li > a {
-  padding: 1rem 2rem;
+  padding: 1rem;
   font-size: 20px;
   font-weight: bold;
 }
@@ -410,7 +410,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 
 #sidebar ul li li a {
-  padding-left: 4rem;
+  padding-left: 2rem;
 }
 
 #sidebar ul li.visited + span {
@@ -418,7 +418,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 #sidebar ul li a {
   display: block;
-  padding: 2px 0;
+  padding: 10px 0;
 }
 #sidebar ul li a span {
   text-overflow: ellipsis;
@@ -426,10 +426,23 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
   white-space: nowrap;
   display: block;
 }
-#sidebar ul li a {
-  padding: 15px 0;
-  font-size: 16px;
+
+#sidebar .dd-item.parent.active .menu-is-open a {
+  padding-left: 2rem;
 }
+
+#sidebar .dd-item.parent.active .dd-item.parent.active .menu-is-open a {
+  padding-left: 3rem;
+}
+
+#sidebar .dd-item.parent.active .dd-item.parent.active .dd-item.parent.active .menu-is-open a {
+  padding-left: 4rem;
+}
+
+#sidebar .dd-item.parent.active .dd-item.parent.active .dd-item.parent.active .dd-item.parent.active .menu-is-open a {
+  padding-left: 5rem;
+}
+
 #sidebar ul li.visited > a .read-icon {
   color: #9c6fb6;
   display: inline;
@@ -1253,7 +1266,7 @@ pre .copy-to-clipboard:hover {
     padding: .5rem 0;
   }
   #sidebar ul li li a {
-    padding-left: 2.8rem;
+    padding-left: 1rem;
   }
 }
 
