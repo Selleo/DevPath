@@ -66,7 +66,7 @@ Besides a small tech interview, prepare a list of PR's or other contributions th
 * 📗 [Autoprefixer](https://github.com/postcss/autoprefixer)
 * 📗 [Support tables](https://caniuse.com/)
 * 📗 [Browserstack for testing](https://www.browserstack.com/)
-
+* 📗 [Popular resolutions to check](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide)
 
 ### 🎤 Interview
 

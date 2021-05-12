@@ -15,7 +15,9 @@ title = "Designer"
 
 ## Independent-Mid
 - 📗 2️⃣ [UX](/designer/skills/ux/)
+- 📙 2️⃣ [Styling advanced](/designer/skills/styling_advanced/)
 - 📙 1️⃣ [Accessibility](/designer/skills/accessibility/)
 - 📙 1️⃣ [Performance](/designer/skills/performance/)
+- 📙 1️⃣ [Email styling](/designer/skills/email_styling/)
 
 ---

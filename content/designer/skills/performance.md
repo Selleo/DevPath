@@ -27,7 +27,7 @@ title = "Performance [WIP]"
 ## 📦 Performance
 
 ### 🎓 Learn
-
+##### HTML
 - 📗 [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - 📗 [Contain](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/)
 - 📗 [Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
@@ -35,9 +35,14 @@ title = "Performance [WIP]"
 - 📗 [Webfonts in depth](https://simonhearne.com/2021/layout-shifts-webfonts/)
 - 📗 [Lazy loading](https://web.dev/native-lazy-loading)
 - 📗 [How Smashing did it](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study)
+- 📗 [CSS auditing](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
+- 📗 [CSS performance](https://calibreapp.com/blog/css-performance)
 
-
+##### Images
 - 📗 [Github image actions](https://github.com/marketplace/actions/image-actions)
+- 📗 WebP, avif, JPEG XL
+- picture element
+- proper density/sizing
 
 
 ### 🎤 Interview

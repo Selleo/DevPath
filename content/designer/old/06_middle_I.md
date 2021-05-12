@@ -26,6 +26,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 ### 🎓 Learn
 
 * 📗 [Logical properties](https://webdesign.tutsplus.com/tutorials/how-to-use-css-logical-properties--cms-33024)
+* 📗 [Logical properties](https://ishadeed.com/article/css-logical-properties/)
 * 📗 Filters
 * 📗 [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/)
 * 📗 [RWD without media queries](https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/)
@@ -39,6 +40,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 ### 🎓 Learn
 
 * 📗 [Animating SVG](https://svgartista.net/)
+* 📗 [Animating SVG](https://www.svgator.com/)
 
 
 ## 📦 Coding / Other

@@ -58,6 +58,7 @@ Prepare for a tech interview, where we will go step by step through the followin
 * 📗 [SpeciFISHity](https://specifishity.com/)
 * 📗 [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 * 📗 [Centering example](https://codepen.io/Zealur/pen/ebNExd)
+* 📗 [% in CSS](https://wattenberger.com/blog/css-percents)
 
 
 ### 🎤 Interview

@@ -14,6 +14,7 @@ Provide the list of PR's or other contributions that prove you understand each s
 * 📗 [Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * 📗 [Advanced alignment](https://www.smashingmagazine.com/2019/03/css-alignment/)
 * 📗 [Ellipsis](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
+* 📗 [Multiline ellipsis](https://css-tricks.com/line-clampin/)
 * 📗 [Margin collapsing](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 * 📗 Another way of disabling margin collapsing is `overflow: hidden` on parent
 * 📗 Pseudo-classes can be used to style an element based on its state.
@@ -85,7 +86,8 @@ Provide the list of PR's or other contributions that prove you understand each s
 
 ### 🎓 Learn
  
-* 📗 [In depth guide to animations](https://www.adobe.com/devnet/archive/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
+* 📗 [In depth guide to animations](https://web.archive.org/web/20201111234454/https://www.adobe.com/devnet/archive/html5/articles/using-css3-transitions-a-comprehensive-guide.html)
+* 📗 [In depth guide to animations](https://blog.hubspot.com/website/css-animation)
 * 📗 [Don't use transition: all](https://stackoverflow.com/questions/8947441/css3-transitions-is-transition-all-slower-than-transition-x)
 * 📗 [How to achieve smooth animations](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 * 📗 [CSS @keyframe animations 1](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)

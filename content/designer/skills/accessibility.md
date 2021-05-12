@@ -58,7 +58,9 @@ title = "Accessibility [WIP]"
 
 https://mailchi.mp/smashingmagazine/smashing-newsletter-286-accessibility?e=5d778e0425
 https://mailchi.mp/smashingmagazine/smashing-newsletter-289-front-end-accessibility?e=5d778e0425
+https://wave.webaim.org/
 
+https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
 ### 🎤 Interview
 
 - 
