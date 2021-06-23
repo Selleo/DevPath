@@ -1,6 +1,8 @@
-+++ aliases = ["backend", "patterns"]
++++
+aliases = ["backend", "patterns"]
 title = "Back-End Patterns - Basic"
-weight = 2 +++
+weight = 2 
++++
 
 {{%bubble %}}
 
